@@ -1,6 +1,9 @@
 npm init
 entry point: Server.js
 
+https://www.youtube.com/watch?v=-0exw-9YJBo
+https://www.youtube.com/watch?v=enopDSs3DRw&list=RDCMUC29ju8bIPH5as8OGnQzwJyA&index=1
+
 npm i express dotenv mongoose colors
 npm install -g nodemon
 
@@ -11,4 +14,4 @@ we will not use try ctahc, instead we will use node js express error Handler
 
 so install: npm i express-async-handler
 
-mongodb+srv://zayeed-1:Muzu2023@cluster0.uhskp9h.mongodb.net/
+mongodb+srv://zayeed-1:Muzu2023@cluster0.uhskp9h.mongodb.net/MERN-App
