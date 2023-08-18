@@ -10,3 +10,5 @@ npm run server
 we will not use try ctahc, instead we will use node js express error Handler
 
 so install: npm i express-async-handler
+
+mongodb+srv://zayeed-1:Muzu2023@cluster0.uhskp9h.mongodb.net/
