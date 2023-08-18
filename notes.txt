@@ -1,0 +1,7 @@
+npm init
+entry point: Server.js
+
+npm i express dotenv mongoose colors
+npm install -g nodemon
+
+npm run server
