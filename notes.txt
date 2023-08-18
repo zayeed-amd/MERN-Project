@@ -5,3 +5,8 @@ npm i express dotenv mongoose colors
 npm install -g nodemon
 
 npm run server
+
+
+we will not use try ctahc, instead we will use node js express error Handler
+
+so install: npm i express-async-handler
